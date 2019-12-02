@@ -29,7 +29,9 @@
       "4.3.1.丸かっこ（）": true
     },
     "prh": {
-      "rulePaths": ["./node_modules/textlint-rule-preset-icsmedia/dict/prh.yml"]
+      "rulePaths": [
+        "./node_modules/textlint-rule-preset-uniba/dict/prh.yml"
+      ]
     }
   },
   "plugins": [
