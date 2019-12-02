@@ -1,6 +1,6 @@
 {
-  "name": "japanese-proofreading",
-  "displayName": "テキスト校正くん",
+  "name": "japanese-proofreading-uniba",
+  "displayName": "テキスト校正くん for UNIBA",
   "description": "VS CodeでテキストファイルやMarkdownファイルの日本語の文章をチェックする拡張機能",
   "version": "0.2.3",
   "publisher": "ICS",
@@ -198,6 +198,7 @@
     "textlint-rule-preset-icsmedia": "github:ics-creative/textlint-rule-preset-icsmedia",
     "textlint-rule-preset-japanese": "^4.0.4",
     "textlint-rule-preset-jtf-style": "^2.3.3",
+    "textlint-rule-preset-uniba": "github:norhythm/textlint-rule-preset-uniba",
     "textlint-rule-prh": "^5.2.1",
     "vscode-languageclient": "^4.2.1",
     "vscode-languageserver": "^4.2.1",
